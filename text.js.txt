@@ -1,2 +1,2 @@
 let a=3;
-(a%===0) ? console.log("Even") : console.log("odd");
+(a%2===0) ? console.log("Even") : console.log("odd");
